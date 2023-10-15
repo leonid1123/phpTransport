@@ -1,0 +1,17 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+td{
+    padding: 2px;
+}
+
+h2,h3{
+    margin: 1px;
+    padding: 1px;
+}
+.row{
+    display: flex;
+    background-color: aqua;
+}
